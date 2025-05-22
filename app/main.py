@@ -34,13 +34,4 @@ if __name__ == '__main__':
 
     # Запускаем цикл приложения
     sys.exit(app.exec_())# if __name__ == "__main__":
-        
-    #     if not QApplication.instance():
-    #         app = QApplication(sys.argv)
-    #     else:
-    #         app = QApplication.instance()
-
-    #     window = MyMainWindow()
-    #     window.show()
-
-    # sys.exit(app.exec())
+    
